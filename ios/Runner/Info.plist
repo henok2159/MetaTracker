@@ -31,6 +31,9 @@
         <array>
         <string>metatracking</string>
         </array>
+		<array>
+    	<string>fb894507489528737</string>
+  		</array>
         </dict>
     </array>
     <key>FlutterDeepLinkingEnabled</key>
@@ -50,6 +53,12 @@
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
+	<key>FacebookAppID</key>
+	<string>894507489528737</string>
+	<key>FacebookClientToken</key>
+	<string>6c4313e5c31f9a8837fdc16c5292a01a</string>
+	<key>FacebookDisplayName</key>
+	<string>eSIMLive FF</string>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
