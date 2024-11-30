@@ -12,9 +12,9 @@ final facebookAppEvents = FacebookAppEvents();
 Future logMetaTrackerAction() async {
   // Add your function code here!
   facebookAppEvents.logEvent(
-    name: 'lunarbuild_test_FlutterFlow',
+    name: 'lunarbuild_test_FlutterFlow_ios',
     parameters: {
-      'button_id': 'the_lunarbuild_test_FlutterFlow',
+      'button_id': 'the_lunarbuild_test_FlutterFlow_ios',
     },
   );
 }
